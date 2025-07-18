@@ -266,6 +266,10 @@ aside ul {
   opacity: 0.7;
 }
 
+.expense-hidden {
+  visibility: hidden;
+}
+
 @media (min-width: 1100px) {
   form {
     max-height: 428px;
